@@ -61,12 +61,6 @@ npm start
 └── package.json
 ```
 
-## 📸 Screenshots
-
-[Image description here]
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please:
@@ -76,14 +70,6 @@ Contributions are welcome! If you'd like to contribute to this project, please:
 3. Commit your changes with clear commit messages.
 4. Push to the branch.
 5. Open a Pull Request against the main branch.
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For questions, suggestions, or feedback, please contact us at [your.email@example.com](mailto:your.email@example.com).
 
 ---
 
